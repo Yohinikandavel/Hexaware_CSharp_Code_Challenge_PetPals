@@ -1,6 +1,5 @@
-# Hexaware_CSharp_Code_Challenge_PetPals
 
-# 🐾 PetPals – The Pet Adoption Platform
+# PetPals – The Pet Adoption Platform
 
 A full-stack C# console application to manage pet adoption, donations, and events.
 
@@ -17,9 +16,6 @@ A full-stack C# console application to manage pet adoption, donations, and event
 - Visual Studio 2022
 - ADO.NET for DB operations
 - Custom exceptions & OOP design
-
-## 📷 Documentation
-Screenshots and a full report are inside `/Documentation/`
 
 ## 🔧 To Run:
 - Open in Visual Studio 2022
